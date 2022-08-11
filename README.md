@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+## PC VIEW
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F1.jpg?alt=media&token=69654c4a-10fb-4423-b9fe-e9e209235f53 "Title")
 
-In the project directory, you can run:
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F2.jpg?alt=media&token=5c695a72-f885-41a9-8ffb-03df917325c6 "Title")
 
-### `npm start`
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F4.jpg?alt=media&token=0cf39fa1-f838-4892-b806-650a9a0b9055 "Title")
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F5.jpg?alt=media&token=0393db19-7406-474a-b415-f3c4c6963ed1 "Title")
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F6.jpg?alt=media&token=41f4e1bc-f960-4a5b-9b52-871618cee950 "Title")
 
-### `npm test`
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F8.jpg?alt=media&token=fbdb6974-7227-482f-a3f6-3146965d197e "Title")
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F9.jpg?alt=media&token=db11c0bb-30eb-49f6-b091-581f379d1488 "Title")
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## MOBILE VIEW
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/mobile%2Fm1.jpg?alt=media&token=ab87ce46-c41b-47cf-886f-549b5ecf5b47 "Title")
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/mobile%2Fm2.jpg?alt=media&token=a831a603-3296-4f1b-b441-9c58bbfb00dd "Title")
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/mobile%2Fm3.jpg?alt=media&token=262aba8f-01f6-4136-9b53-38ea3c129666 "Title")
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/mobile%2Fm4.jpg?alt=media&token=b311f275-af4f-4a38-a9f5-de4ef6002128 "Title")
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/mobile%2Fm5.jpg?alt=media&token=b86a2cf5-ecfa-42b8-bbf0-bbb15659bf72 "Title")
