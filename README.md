@@ -11,6 +11,8 @@
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F6.jpg?alt=media&token=41f4e1bc-f960-4a5b-9b52-871618cee950 "Title")
 
+![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F7.jpg?alt=media&token=af3dc2df-2f33-4e9e-8022-8571809a992e "Title")
+
 ![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F8.jpg?alt=media&token=fbdb6974-7227-482f-a3f6-3146965d197e "Title")
 
 ![alt text](https://firebasestorage.googleapis.com/v0/b/reactecommerce-5d9fe.appspot.com/o/screenshots%2F9.jpg?alt=media&token=db11c0bb-30eb-49f6-b091-581f379d1488 "Title")
